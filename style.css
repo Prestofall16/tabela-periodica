@@ -1,0 +1,41 @@
+
+.numero_atm{
+    text-align: left;
+}
+table{
+width: 100%;
+text-align: center;
+
+}
+td{
+width: 100px;
+height: 100px;
+
+}
+body{
+    zoom: 75%;
+}
+.azul{background-color: skyblue; 
+border-radius: 10px;}
+.vermelho{background-color:crimson;
+border-radius: 10px;}
+.verdeescuro{background-color: lightgreen;
+border-radius: 10px;
+}
+.gold{background-color: gold;
+border-radius: 10px;}
+.rosa{background-color: pink;
+border-radius: 10px;}
+.cinza{background-color: grey;
+border-radius: 10px;}
+.roxo{background-color: salmon;
+border-radius: 10px;
+}
+.laranja{background-color: orange;
+border-radius: 10px;}
+.ciano{background-color:aqua ;
+border-radius: 10px;}
+.verde{background-color:greenyellow ;
+background-color: 10px;}
+.cor{background-color: darkcyan;
+border-radius: 10px}
